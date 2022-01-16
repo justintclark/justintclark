@@ -4,8 +4,8 @@ Hello, world.
 I'm Justin.
 ジャスティンと申します。
 
-I'm currently studying Computer Science at Kent State University. 
-現在ケント州立大学でコンピューターサイエンスを勉強しております。
+I've recently graduated with a degree in Computer Science at Kent State University. 
+ケント州立大学のコンピューターサイエンスの専攻の新卒です。
 
 I'm interested in becoming a software engineer either in the USA or in Japan.
 アメリカか日本かどちらの国でもソフト開発のキャリアをしたいと思います。
@@ -20,4 +20,4 @@ I'm in my 30s and I've only just started learning how to program through my univ
 三十路で大学でプログラミングのことを勉強しはめたばかりですが、いつも頑張っております。
 
 Here on Github, I have a variety of projects hosted. Most of which are from my university projects.
-ゲットハブで様々なプロジェクトをアップしています。ほとんどのは、大学の時のプロジェクトです。
+GitHubで様々なプロジェクトをアップしています。ほとんどのは、大学の時のプロジェクトです。
